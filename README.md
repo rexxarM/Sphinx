@@ -14,7 +14,7 @@
 ---
 ##Grammer lint
 
-[English shell checker](http://www.reverso.net/spell-checker/english-spelling-grammar/)
+[English spell checker](http://www.reverso.net/spell-checker/english-spelling-grammar/)
 
 [google translator](https://translate.google.com.hk/)
 
