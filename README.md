@@ -3,6 +3,13 @@
 @saki
 
 ---
+##Plugin for safari
+
+[Safari-json-formatter](https://github.com/rfletcher/safari-json-formatter)
+
+
+
+---
 ##Search
 
 [Search Code](https://searchcode.com/)
@@ -35,6 +42,7 @@
 
 [sequence diagram](http://bramp.github.io/js-sequence-diagrams/)
 
+[Railroad Diagram](http://www.bottlecaps.de/rr/ui)
 
 
 ---
