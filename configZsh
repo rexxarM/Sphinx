@@ -1,2 +1,3 @@
-!/bin/sh
+#!/bin/zsh
 cp .zshrc ~/.zshrc
+source ~/.zshrc
