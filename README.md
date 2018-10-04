@@ -2,6 +2,8 @@
 
 @saki
 
+oh-myzsh config: copy `.zshrc` to `~/.zshrc`.
+
 ---
 ##Plugin for safari
 
