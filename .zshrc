@@ -98,5 +98,4 @@ alias gitpush="git push origin master"
 alias gitsync="git add -u;git commit -m \"quick stash from commandline\";git push origin master"
 alias gitlog="git log --graph"
 alias cprovision="security cms -D -i "
-
-alias svnco = "svn checkout --depth immediates "
+alias svnco="svn checkout --depth immediates "
